@@ -1,3 +1,8 @@
+#  REGEX MODEL
+### model
+
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -7,8 +12,6 @@
 5. [Anchors](#anchors)
 6. [Author's Section](#authors-section)
 
-#  REGEX MODEL
-### model
 
 ## Introduction 
 
