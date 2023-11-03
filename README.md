@@ -1,6 +1,7 @@
 #  REGEX: MATCHING URL 
 
-## What is "Regex" ?
+## Introduction 
+### What is Regex?
 Regular expressions are widely used in programming, text processing, and data extraction tasks. They are supported by many programming languages, text editors, and tools.
 Regex consists of a combination of characters and metacharacters that specify the pattern to be matched. They allow you to define complex patterns for text matching in a concise and flexible way.
 
