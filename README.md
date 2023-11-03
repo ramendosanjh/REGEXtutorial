@@ -8,14 +8,14 @@ Regex consists of a combination of characters and metacharacters that specify th
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Matching URL Model](#model)
-3. [Anchors](#Anchors)
-4. [Operator](#Operator)
-5. [Character Classes](#characterclasses)
-6. [Flags](#Flags)
-7. [Grouping and Capturing](#GroupingandCapturing)
-8. [Bracket Expressions](#BracketExpressions)
-9. [Summary](#Summary)
-10. [Look-ahead and Look-behind](#Look-aheadLook-behind)
+3. [Anchors](#anchors)
+4. [Operator](#operator)
+5. [Character Classes](#character-classes)
+6. [Flags](#flags)
+7. [Grouping and Capturing](#grouping-and-capturing)
+8. [Bracket Expressions](#bracket-expressions)
+9. [Summary](#summary)
+10. [Look-ahead and Look-behind](#look-aheadLook-behind)
 11. [Author's Section](#authors-section)
 
 
