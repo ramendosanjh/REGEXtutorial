@@ -7,11 +7,11 @@ Regex consists of a combination of characters and metacharacters that specify th
 
 ## Table of Contents
 1. [Introduction](#Introduction)
-2. [Matching URL Model](#model)
-3. [Anchors](#anchors)
-4. [Operator](#operator)
-5. [Character Classes](#character-classes)
-6. [Flags](#flags)
+2. [Table of Contents](#table-of-contents)
+3. [Matching URL Model](#model)
+4. [Anchors](#anchors)
+5. [Operator](#operator)
+6. [Character Classes](#character-classes)
 7. [Grouping and Capturing](#grouping-and-capturing)
 8. [Bracket Expressions](#bracket-expressions)
 9. [Summary](#summary)
