@@ -15,8 +15,7 @@ Regex consists of a combination of characters and metacharacters that specify th
 7. [Grouping and Capturing](#grouping-and-capturing)
 8. [Bracket Expressions](#bracket-expressions)
 9. [Summary](#summary)
-10. [Look-ahead and Look-behind](#look-aheadLook-behind)
-11. [Author's Section](#authors-section)
+10. [Author's Section](#authors-section)
 
 
 ## Model 
