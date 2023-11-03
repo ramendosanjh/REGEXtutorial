@@ -17,10 +17,16 @@ Regular expressions consist of a combination of characters and metacharacters th
 ### Matching Url Regular Expression Model and Description
 The 'Matching Url" regular expression is used to match URLs with the "http", "https", or "ftp" schemes, ensuring that the URL contains only valid characters and no spaces. It validates the basic structure of a URL but doesn't check whether the URL is reachable or functional. It can be used for URL validation in various applications such as form input validation and data extraction. 
 
-### Model:
+
+## Model:
+
+Matching URL Model:
+
 `^(https?|ftp)://[^\s/$.?#].[^\s]*$`
 
 ### Description:
+
+Below provides a detailed description of individual characters and character sets used in the above model.
 
 `^`: This symbol ensures that the regex matches from the beginning of the input.
 
@@ -30,7 +36,7 @@ The 'Matching Url" regular expression is used to match URLs with the "http", "ht
 
 `[^\s/$.?#]`: This matches a single character that is not any of the characters listed inside. 
 
-Description of each character:
+Individual character description: 
 
 `[^\s]`: Matches any character that is not whitespace.
 `[/]`: Matches the forward slash character.
@@ -47,7 +53,7 @@ Description of each character:
 
 
 
-### Examples
+## Examples
 Below are two exmaples of Regex Matching URL:
 
 `http://www.example.com`
@@ -56,3 +62,7 @@ Below are two exmaples of Regex Matching URL:
 
 
 ## Author's Section
+
+Authors Name: Ramen Dosanjh
+Github Repo: https://github.com/ramendosanjh
+Contact: ramendosanjh@outlook.com
