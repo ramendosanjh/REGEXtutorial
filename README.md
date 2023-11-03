@@ -1,16 +1,11 @@
 #  REGULAR EXPRESSIONS: MATCHING URL 
 
-Example:
-http://www.example.com 
-ftp://files.example.org/path/to/file
-
-
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Matching URL Model and Description](#regex)
-3. [Character Classes](#char-classes)
+3. [Examples](#examples)
 4. [Quantifiers](#quantifiers)
 5. [Anchors](#anchors)
 6. [Author's Section](#authors-section)
