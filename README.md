@@ -52,6 +52,6 @@ In summary, this regex pattern is used to match URLs that start with either "htt
 
 ## Author's Section
 
-### Authors Name: Ramen Dosanjh
+### Ramen Dosanjh
 ### Github Repo: https://github.com/ramendosanjh
 ### Contact: ramendosanjh@outlook.com
