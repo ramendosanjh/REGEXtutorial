@@ -1,4 +1,4 @@
-#  REGULAR EXPRESSIONS: MATCHING URL 
+#  REGEX: MATCHING URL 
 
 ## What is "Regex" ?
 Regular expressions are widely used in programming, text processing, and data extraction tasks. They are supported by many programming languages, text editors, and tools, making them a versatile tool for tasks such as:
