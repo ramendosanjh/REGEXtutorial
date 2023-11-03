@@ -27,7 +27,7 @@ Regular expressions consist of a combination of characters and metacharacters th
 The 'Matching Url" regular expression is used to match URLs with the "http", "https", or "ftp" schemes, ensuring that the URL contains only valid characters and no spaces. It validates the basic structure of a URL but doesn't check whether the URL is reachable or functional. It can be used for URL validation in various applications such as form input validation and data extraction. 
 
 
-### ^(https?|ftp)://[^\s/$.?#].[^\s]*$
+##`^(https?|ftp)://[^\s/$.?#].[^\s]*$`
 
 ^: This symbol ensures that the regex matches from the beginning of the input.
 
