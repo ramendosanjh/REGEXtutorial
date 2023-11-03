@@ -4,6 +4,17 @@
 Regular expressions are widely used in programming, text processing, and data extraction tasks. They are supported by many programming languages, text editors, and tools.
 Regex consists of a combination of characters and metacharacters that specify the pattern to be matched. They allow you to define complex patterns for text matching in a concise and flexible way.
 ## Table of Contents
+1. [Introduction](#introduction)
+2. [Anchors] (#Anchors)
+3. [Operator] (#Operator)
+4. [Character Classes] (#characterclasses)
+5. [Flags] (#Flags)
+6. [Grouping and Capturing] (#GroupingandCapturing)
+7. [Bracket Expressions] (#BracketExpressions)
+8. [Greedy and Lazy Match] (#GreedyLazyMatch)
+9. [Boundaries] (#Boundaries)
+10. [Back-references] (#BackReferences)
+11. [Look-ahead and Look-behind] (#Look-aheadLook-behind)
 
 1. [Introduction](#introduction)
 2. [Matching URL Model](#model)
