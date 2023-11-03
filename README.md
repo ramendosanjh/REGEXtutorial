@@ -62,6 +62,6 @@ Below are two exmaples of Regex Matching URL:
 
 ## Author's Section
 
-Authors Name: Ramen Dosanjh
-Github Repo: https://github.com/ramendosanjh
-Contact: ramendosanjh@outlook.com
+### Authors Name: Ramen Dosanjh
+### Github Repo: https://github.com/ramendosanjh
+### Contact: ramendosanjh@outlook.com
