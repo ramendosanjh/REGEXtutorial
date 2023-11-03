@@ -29,20 +29,20 @@ Matching URL Model:
 `^(https?|ftp)://[^\s/$.?#].[^\s]*$`
 
 ### Anchors:
-^ (caret) - Matches the start of a line or string.
+`^` (caret) - Matches the start of a line or string.
 In this pattern, it indicates that the URL should start with the specified protocols (http, https, or ftp).
 
 ### Operator:
-| (pipe) - Specifies alternatives.
+`|` (pipe) - Specifies alternatives.
 In this pattern, it allows matching URLs that start with either "http," "https," or "ftp."
 
 
 ### Character Classes:
-[^\s/$.?#] - A character class that matches a single character that is not a space, "/", "$," ".", "?," or "#."
+`[^\s/$.?#]` - A character class that matches a single character that is not a space, "/", "$," ".", "?," or "#."
 
 
 ### Grouping and Capturing:
-Parentheses () are used to group subpatterns. In this pattern, they are used to group the protocols for the OR operator.
+Parentheses `()` are used to group subpatterns. In this pattern, they are used to group the protocols for the OR operator.
 
 ### Bracket Expressions:
 `[...]` - Defines a set of characters to match. In this pattern, it is used in the character class to specify characters that are not allowed in the URL path.
